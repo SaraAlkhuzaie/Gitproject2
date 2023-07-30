@@ -15,4 +15,7 @@ public class DemoDay1 {
 		System.out.println(a+b+c);
 		
 	}
+	public static void divid(int a, int b) {
+		System.out.println(a/b);
+	}
 }
