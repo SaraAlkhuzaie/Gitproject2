@@ -20,6 +20,10 @@ public class DemoDay1 {
 	}
 		public static void add21(int a, int b, int d) {
 			System.out.println(a+b +d);
+		}
+			public static void divid2(int a, int b, int s) {
+		System.out.println(a/b/s);
+		
 			
 	}
 }
