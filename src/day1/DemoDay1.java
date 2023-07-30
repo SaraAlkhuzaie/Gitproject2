@@ -26,4 +26,7 @@ public class DemoDay1 {
 		
 			
 	}
+	public static void add4(int a, int b,int w) {
+		System.out.println(a+b+w);
+	}
 }
