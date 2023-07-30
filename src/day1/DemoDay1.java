@@ -18,4 +18,8 @@ public class DemoDay1 {
 	public static void divid(int a, int b) {
 		System.out.println(a/b);
 	}
+		public static void add21(int a, int b, int d) {
+			System.out.println(a+b +d);
+			
+	}
 }
