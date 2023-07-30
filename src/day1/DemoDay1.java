@@ -14,5 +14,5 @@ public class DemoDay1 {
 	public static void add2(int a, int b,int c) {
 		System.out.println(a+b+c);
 		
-
+	}
 }
